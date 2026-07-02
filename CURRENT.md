@@ -54,17 +54,16 @@ homelessbuilder/
 
 - Repo initialized, branch: `main`
 - Identity: Homeless Builder / sandiegocloudsolutions+hb@gmail.com (via global config)
-- Remote: HomelessBuilder GitHub account (not yet connected)
-- Three commits made — foundation is clean
+- Remote: connected — `git@github-hb:HomelessBuilder/homelessbuilder.git`
+- Six commits made — foundation is clean
 
 ---
 
 ## Next Actions
 
-1. Connect GitHub remote when ready to push
-2. Review episode one script and press release before either is used
-3. Decide on recording format and location when Homeless Builder becomes the active priority
-4. Drop new content files into `HomelessBuilder/content/` as they are created
+1. Review episode one script and press release before either is used
+2. Decide on recording format and location when Homeless Builder becomes the active priority
+3. Drop new content files into `HomelessBuilder/content/` as they are created
 
 ---
 
