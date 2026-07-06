@@ -47,26 +47,26 @@ homelessbuilder/
 │   └── press/                       ← press releases and media outreach
 ```
 
-## Sage and the AI Foundations Lab — Content Opportunity
+## Sabia and the AI Foundations Lab — Content Opportunity
 
-**Sage** is the AI instructor persona built for Diego's AI training course, **AI Foundations Lab**. Sage is warm, encouraging, and normalizes confusion — designed to guide complete beginners through learning to use AI tools, specifically Claude Code and Claude Desktop, to build real things.
+**Sabia** is the AI instructor persona built for Diego's AI training course, **AI Foundations Lab**. Sabia is warm, encouraging, and normalizes confusion — designed to guide complete beginners through learning to use AI tools, specifically Claude Code and Claude Desktop, to build real things.
 
-The course is delivered as a hands-on lab sequence (Labs 0 through 7). Students work locally inside their own Claude Code or Claude Desktop session with a student-facing Sage persona file. A live Sage chat interface also exists at sandiegoai.help/sage/ as a pre-sale tool.
+The course is delivered as a hands-on lab sequence (Labs 0 through 7). Students work locally inside their own Claude Code or Claude Desktop session with a student-facing Sabia persona file. A live Sabia chat interface also exists at sandiegoai.help/sabia/ as a pre-sale tool.
 
-**Why this matters for Homeless Builder:** A YouTube video demonstrating Sage and the AI Foundations Lab is a likely next content project. This could take several forms:
+**Why this matters for Homeless Builder:** A YouTube video demonstrating Sabia and the AI Foundations Lab is a likely next content project. This could take several forms:
 - A demo walkthrough of what the course experience looks like
-- A behind-the-scenes build video showing how Sage was created
+- A behind-the-scenes build video showing how Sabia was created
 - A promotional piece aimed at potential course students
 - A story episode connecting the course to the broader Homeless Builder journey
 
 **Key facts to know when working on this content:**
 - The course is sold at sandiegoai.help/course-alpha/ — $73 initiation, $777 full program
-- Sage's persona lives in `~/ai-foundations-lab/instructor/SAGE.md`
-- The live chat interface is at sandiegoai.help/sage/
+- Sabia's persona lives in `~/ai-foundations-lab/instructor/SABIA.md`
+- The live chat interface is at sandiegoai.help/sabia/
 - The course is in alpha — early students are part of building it
 - The AI Foundations Lab project is managed by its own Claude Code instance at `~/ai-foundations-lab/`
 
-When this video project moves forward, coordinate with the overseer at `~/` to pull current Sage and course details before producing any content.
+When this video project moves forward, coordinate with the overseer at `~/` to pull current Sabia and course details before producing any content.
 
 ---
 
